@@ -1,10 +1,9 @@
 ## Hello, I'm Paulo Klaudat
 
 **About Me:**
-- I'm Electrical Engineering Student at Federal University of Rio Grande do Sul (UFRGS)
-- I'm passionate about Software Development, Microelectronics and Music
-- I’m currently working on back-end development using Python and Cloud
-- I’m currently learning Python, AWS and Cloud
+- Electrical Engineering Student at Federal University of Rio Grande do Sul (UFRGS)
+- Passionate about Software Development, Microelectronics and Music
+- Working with back-end development using Python and AWS Cloud Development Kit
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pklaudat)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-klaudat/)
