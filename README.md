@@ -3,7 +3,7 @@
 **About Me:**
 - Passionate about Software Development, Cloud Computing, Microelectronics and Music
 - Working mainly with Infrastructure as Code (AWS CDK, Azure Bicep and Terraform)
-- Electrical Engineer - Federal University of Rio Grande do Sul (UFRGS)
+- Electrical Engineer (UFRGS) and Specialist in Data Engineering & Big Data (USP - In Progress)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pklaudat)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-klaudat/)
