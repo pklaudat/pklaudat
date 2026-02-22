@@ -1,4 +1,4 @@
-<h4 align="center">Cloud Architect • Infrastructure as Code </h4>
+<h4 align="center">Cloud Architect </h4>
 
 <p align="center">
 Designing secure cloud foundations • Automating everything • Enabling scalable platforms
