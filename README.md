@@ -1,4 +1,3 @@
-<h2 align="center">⚙️ Paulo Klaudat</h2>
 <h4 align="center">Cloud Architect • Infrastructure as Code </h4>
 
 <p align="center">
