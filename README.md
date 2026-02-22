@@ -1,12 +1,64 @@
-## Hello, I'm Paulo Klaudat
+<h2 align="center">⚙️ Paulo Klaudat</h2>
+<h4 align="center">Cloud Engineer • Infrastructure as Code • Platform Enablement</h4>
 
-**About Me:**
-- Passionate about Software Development, Cloud Computing, Microelectronics and Music
-- Electrical Engineer (UFRGS) and Specialist in Data Engineering & Big Data (USP - In Progress)
+<p align="center">
+Designing secure cloud foundations • Automating everything • Enabling scalable platforms
+</p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pklaudat)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-klaudat/)
-[![Researchgate](https://img.shields.io/badge/-ResearchGate-brightgreen)](https://www.researchgate.net/profile/Paulo-Klaudat)
+---
 
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pklaudat&show_icons=true&theme=dracula)](https://github.com/pklaudat/github-readme-stats)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pklaudat&show_icons=true&theme=dracula)](https://github.com/pklaudat/github-readme-stats)
+### 🏗 About Me
+
+- Passionate about **Infrastructure as Code, Cloud Computing, Distributed Systems and Automation**
+- Electrical Engineer (UFRGS)
+- Specialist in Data Engineering & Big Data (USP - In Progress)
+- Focused on building secure, scalable, enterprise-grade cloud environments
+
+---
+
+### ☁️ Core Stack
+
+### ☁️ Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bicep-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+</p>
+
+---
+
+### 🔗 Connect
+
+<p>
+  <a href="https://github.com/pklaudat">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-klaudat/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Paulo-Klaudat">
+    <img src="https://img.shields.io/badge/-ResearchGate-brightgreen" />
+  </a>
+</p>
+
+---
+
+### 📊 Engineering Metrics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=pklaudat&show_icons=true&theme=dracula" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pklaudat&layout=compact&theme=dracula" 
+    width="48%" 
+  />
+</p>
