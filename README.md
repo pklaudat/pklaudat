@@ -8,4 +8,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-klaudat/)
 [![Researchgate](https://img.shields.io/badge/-ResearchGate-brightgreen)](https://www.researchgate.net/profile/Paulo-Klaudat)
 
-[![Paulo Klaudat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pklaudat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/pklaudat/github-readme-stats-fast)
+[![Paulo Klaudat's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pklaudat)](https://github.com/pklaudat/github-readme-stats-fast)
