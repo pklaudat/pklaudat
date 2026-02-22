@@ -1,5 +1,5 @@
 <h2 align="center">⚙️ Paulo Klaudat</h2>
-<h4 align="center">Cloud Engineer • Infrastructure as Code • Platform Enablement</h4>
+<h4 align="center">Cloud Architect • Infrastructure as Code </h4>
 
 <p align="center">
 Designing secure cloud foundations • Automating everything • Enabling scalable platforms
@@ -15,8 +15,6 @@ Designing secure cloud foundations • Automating everything • Enabling scalab
 - Focused on building secure, scalable, enterprise-grade cloud environments
 
 ---
-
-### ☁️ Core Stack
 
 ### ☁️ Core Stack
 
@@ -49,16 +47,19 @@ Designing secure cloud foundations • Automating everything • Enabling scalab
 </p>
 
 ---
-
 ### 📊 Engineering Metrics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=pklaudat&show_icons=true&theme=dracula" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pklaudat&layout=compact&theme=dracula" 
-    width="48%" 
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats-fast.vercel.app/api?username=pklaudat&show_icons=true&theme=dracula"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pklaudat&layout=compact&theme=dracula"
+      />
+    </td>
+  </tr>
+</table>
